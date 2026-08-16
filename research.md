@@ -5,7 +5,6 @@ permalink: /research/
 ---
 
 # Research & Publications
----
 
 ## I. Statistical Methodology
 

@@ -1,5 +1,51 @@
-{% include header.html %}
-{% include sidebar.html %}
-{{ content }}
-© {{ 'now' | date: '%Y' }} Jungmin Shin. Built for GitHub Pages.
-Last updated {{ 'now' | date: '%B %Y' }}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>
+    {% if page.title %}
+      {{ page.title }} | {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+
+  <meta name="description" content="{{ site.description }}">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet"
+        href="{{ '/assets/css/main.css' | relative_url }}?v=20260816-3">
+</head>
+
+<body>
+
+  {% include header.html %}
+
+  <div class="page-shell">
+
+    {% include sidebar.html %}
+
+    <main class="page-content">
+      {{ content }}
+    </main>
+
+  </div>
+
+  <footer class="site-footer">
+    <span>
+      © {{ 'now' | date: '%Y' }} Jungmin Shin. Built for GitHub Pages.
+    </span>
+    <span>
+      Last updated {{ site.time | date: '%B %Y' }}
+    </span>
+  </footer>
+
+  <script src="{{ '/assets/js/main.js' | relative_url }}?v=20260816-3"></script>
+
+</body>
+</html>

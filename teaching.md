@@ -29,15 +29,13 @@ Delivered approximately **30 hours of English-medium instruction** in foundation
 
 Taught undergraduate mathematics and statistics over seven semesters:
 
-<div class="course-grid">
-  <div><strong>Introduction to Statistics</strong><span>Spring 2021, 2022, 2023</span></div>
-  <div><strong>Linear Algebra</strong><span>Fall 2022, 2023</span></div>
-  <div><strong>Data Analysis for Military Defense</strong><span>Spring 2021; Fall 2022</span></div>
-  <div><strong>Data Visualization</strong><span>Fall 2021; Spring 2023</span></div>
-  <div><strong>Mathematical Statistics</strong><span>Spring 2021</span></div>
-  <div><strong>Calculus</strong><span>Fall 2020</span></div>
-  <div><strong>Mathematics for AI</strong><span>Fall 2020</span></div>
-</div>
+- **Introduction to Statistics** — Spring 2021, 2022, 2023
+- **Linear Algebra** — Fall 2022, 2023
+- **Data Analysis for Military Defense** — Spring 2021; Fall 2022
+- **Data Visualization** — Fall 2021; Spring 2023
+- **Mathematical Statistics** — Spring 2021
+- **Calculus** — Fall 2020
+- **Mathematics for AI** — Fall 2020
 
 In addition to classroom teaching, I mentored cadets in undergraduate research and academic planning and contributed to interdisciplinary defense research and AI-based educational initiatives.
 

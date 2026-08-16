@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Home
-permalink: /
 ---
 
 # Jungmin Shin
 
-<p class="lead">Statistician developing methodology for high-dimensional biomedical data, with an emphasis on spatial omics, sufficient dimension reduction, and statistical machine learning.</p>
+<p class="lead">
+Statistician developing methodology for high-dimensional biomedical data, with an emphasis on spatial omics, sufficient dimension reduction, and statistical machine learning.
+</p>
 
 I am a **Postdoctoral Researcher in the Department of Biomedical Informatics at The Ohio State University**, working with Dr. Dongjun Chung. I received my Ph.D. in Statistics from Korea University under Dr. Seung Jun Shin and my M.S. in Statistics from Purdue University.
 
@@ -23,16 +24,16 @@ Before my current academic research career, I **served in the Republic of Korea 
 
 ## Selected software & projects
 
-- **[spaCraft](https://github.com/c16267/spaCraft)** — calibrated power analysis and sample-size planning for multi-sample spatial transcriptomics.
-- **[psvmSDR](https://cran.r-project.org/package=psvmSDR)** — R implementation of unified principal-machine sufficient dimension reduction.
-- **[ppmSDR](https://cran.r-project.org/web/packages/ppmSDR/index.html)** — penalized principal machines for sparse sufficient dimension reduction.
-- **[DCQR](https://github.com/c16267/DCQR)** — deep composite quantile regression methodology.
+- [**spaCraft**](https://github.com/c16267/spaCraft) — calibrated power analysis and sample-size planning for multi-sample spatial transcriptomics.
+- [**psvmSDR**](https://cran.r-project.org/package=psvmSDR) — R implementation of unified principal-machine sufficient dimension reduction.
+- [**ppmSDR**](https://cran.r-project.org/web/packages/ppmSDR/index.html) — penalized principal machines for sparse sufficient dimension reduction.
+- [**DCQR**](https://github.com/c16267/DCQR) — deep composite quantile regression methodology.
 
 ## Recent academic activities
 
 - **JSM 2026, Boston** — contributed oral presentation on spaCraft.
-- **IMS New Researchers Conference 2026, UMass Amherst** — selected participant and lightning talk on spaCraft; funded by NSF and IMS.
-- **1st IMS International New Researchers Conference 2025, Seville** — invited presentation on penalized principal machines; one of 50 selected early-career researchers.
+- **IMS New Researchers Conference 2026, UMass Amherst** — selected participant and lightning talk on spaCraft.
+- **1st IMS International New Researchers Conference 2025, Seville** — presentation on penalized principal machines.
 - **2026 ASCO Annual Meeting** and **ESMO 2026 Congress** — lead-biostatistician work in R/M HNSCC biomarker studies.
 
-For the complete record, see **[Research & Publications]({{ '/research/' | relative_url }})** or my **[CV]({{ '/cv/' | relative_url }})**.
+For the complete record, see [**Research & Publications**](/research/) or my [**CV**](/cv/).

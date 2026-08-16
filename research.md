@@ -10,7 +10,7 @@ permalink: /research/
 
 ### Peer-reviewed journal articles
 
-<ol class="pub-list numbered">
+<ol class="pub-list">
   <li><div class="pub-title">psvmSDR: An R package for a unified algorithm for sufficient dimension reduction via principal machines</div><div class="pub-meta"><strong>Jungmin Shin</strong>, Seung Jun Shin, Andreas Artemiou (2026). <em>The R Journal</em>, in press. <a href="https://arxiv.org/abs/2409.01547">arXiv</a> · <a href="https://cran.r-project.org/package=psvmSDR">CRAN</a></div></li>
   <li><div class="pub-title">A least distance estimator for a multivariate regression model using deep neural networks</div><div class="pub-meta"><strong>Jungmin Shin</strong>, Seung Jun Shin, Sungwan Bang (2025). <em>Journal of Statistical Computation and Simulation</em>, 95(10), 2308–2325. <a href="https://doi.org/10.1080/00949655.2025.2492195">DOI</a></div></li>
   <li><div class="pub-title">Simultaneous estimation and variable selection for a non-crossing multiple quantile regression using deep neural network</div><div class="pub-meta"><strong>Jungmin Shin</strong>, Seunghyun Kwak, Seung Jun Shin, Sungwan Bang (2024). <em>Statistics and Computing</em>, 34, 102. <a href="https://doi.org/10.1007/s11222-024-10418-4">DOI</a></div></li>

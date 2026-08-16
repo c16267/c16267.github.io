@@ -126,8 +126,16 @@ strong { color: #282828; }
   color: #4c4c4c;
 }
 
-.pub-list { list-style: none; padding-left: 0; }
+/* Publication/manuscript lists: preserve numbering for <ol>, bullets off for <ul>. */
+ul.pub-list { list-style: none; padding-left: 0; }
+ol.pub-list { list-style: decimal; padding-left: 1.65rem; }
 .pub-list li { margin: 0 0 24px; }
+ol.pub-list > li { padding-left: 0.25rem; }
+ol.pub-list > li::marker {
+  color: #777;
+  font-weight: 600;
+  font-size: 13px;
+}
 .pub-title { font-weight: 650; color: #303030; font-size: 16px; }
 .pub-meta { color: #666; font-size: 14px; margin-top: 3px; line-height: 1.55; }
 .pub-note { color: #8a5a2b; font-size: 13.5px; font-weight: 600; }
@@ -221,17 +229,6 @@ strong { color: #282828; }
 .quick-link strong { display: block; font-size: 14px; margin-bottom: 2px; }
 .quick-link span { display: block; color: var(--muted); font-size: 12.5px; line-height: 1.45; }
 
-.pub-list.numbered { counter-reset: pub; }
-.pub-list.numbered > li { counter-increment: pub; position: relative; padding-left: 35px; }
-.pub-list.numbered > li::before {
-  content: counter(pub) ".";
-  position: absolute;
-  left: 0; top: 0;
-  width: 25px;
-  color: #888;
-  font-weight: 600;
-  font-size: 13px;
-}
 .pub-list.compact li { margin-bottom: 17px; }
 .footnote { color: #777; font-size: 12.5px; line-height: 1.55; }
 

@@ -260,3 +260,4 @@ ol.pub-list > li::marker {
   .quick-links, .course-grid { grid-template-columns: 1fr; }
   .timeline-item { grid-template-columns: 1fr; gap: 3px; }
 }
+ 

@@ -1,0 +1,11 @@
+title: "Jungmin Shin"
+description: "Jungmin Shin — high-dimensional statistics, spatial omics, sufficient dimension reduction, statistical machine learning, and biomedical informatics"
+url: "https://c16267.github.io"
+baseurl: ""
+lang: "en-US"
+timezone: "America/New_York"
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - LICENSE

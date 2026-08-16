@@ -55,3 +55,4 @@ Lecturer · **Jun. 2020–Mar. 2022**
 - **2023** — Best Paper Prize, Chung-Nam Institute
 - **2023** — Letter of Commendation for simulation support, Republic of Korea Army Chief of Staff
 - **Career total** — 17 Letters of Commendation from the Republic of Korea Army
+ 

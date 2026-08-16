@@ -14,13 +14,6 @@ My methodological research spans **high-dimensional statistics, sufficient dimen
 
 Before my current academic research career, I served in the Republic of Korea Army for 14 years and taught mathematics and statistics at the Korea Military Academy.
 
-<div class="quick-links">
-  <a class="quick-link" href="{{ '/research/' | relative_url }}"><strong>Research & Publications</strong><span>Methods, software, biomedical collaboration</span></a>
-  <a class="quick-link" href="{{ '/talks/' | relative_url }}"><strong>Talks</strong><span>Invited and conference presentations</span></a>
-  <a class="quick-link" href="{{ '/teaching/' | relative_url }}"><strong>Teaching</strong><span>Statistics, mathematics, and omics ML</span></a>
-  <a class="quick-link" href="{{ '/cv/' | relative_url }}"><strong>Curriculum Vitae</strong><span>Experience, grants, honors, service</span></a>
-</div>
-
 ## Research interests
 
 - **Spatial & single-cell omics** — study design, power analysis, spatial statistics, multi-sample modeling, cell-type deconvolution, and reproducible bioinformatics.

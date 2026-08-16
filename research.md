@@ -5,33 +5,6 @@ permalink: /research/
 ---
 
 # Research & Publications
-
-My research connects statistical methodology, computational biology, and collaborative biostatistics. The goal is to develop methods that are mathematically principled, computationally efficient, and useful for modern biomedical studies.
-
-## Research themes
-
-### Spatial omics and experimental design
-
-Prospective design, simulation, power analysis, spatial domain recovery, cross-sample variability, and inference for multi-sample spatial transcriptomics.
-
-<span class="tag">Spatial transcriptomics</span><span class="tag">Power analysis</span><span class="tag">Spatial statistics</span><span class="tag">Multi-sample studies</span>
-
-### Sufficient dimension reduction and high-dimensional inference
-
-Principal-machine approaches to sufficient dimension reduction, sparse estimation, variable selection, and efficient computation.
-
-<span class="tag">SDR</span><span class="tag">Variable selection</span><span class="tag">High-dimensional statistics</span>
-
-### Statistical deep learning
-
-Deep-learning-based estimators for nonlinear regression, quantile regression, and classification, with emphasis on estimation and variable selection rather than prediction alone.
-
-<span class="tag">Deep learning</span><span class="tag">Quantile regression</span><span class="tag">Classification</span>
-
-### Biomedical and immuno-oncology biostatistics
-
-Longitudinal biomarker analysis, survival analysis, cytokine assays, spectral flow cytometry, TCR-seq, single-cell multi-omics, and spatial omics in immuno-oncology studies.
-
 ---
 
 ## I. Statistical Methodology

@@ -2,8 +2,6 @@
 
 GitHub Pages source for **https://c16267.github.io**.
 
-The site is a lightweight Jekyll academic homepage inspired by AcademicPages / Minimal Mistakes. Content is synchronized with Jungmin Shin's August 2026 CV.
-
 ## Deploy
 
 1. Create a public GitHub repository named exactly `c16267.github.io`.

@@ -12,7 +12,7 @@ I am a **Postdoctoral Researcher in the Department of Biomedical Informatics at 
 
 My methodological research spans **high-dimensional statistics, sufficient dimension reduction, statistical deep learning, and spatial statistics**, with applications to bulk RNA-seq, single-cell and spatial omics, and multi-omics integration. I also serve as a **lead biostatistician for immuno-oncology studies** at OSU, working with longitudinal biomarkers, survival outcomes, cytokine assays, spectral flow cytometry, scRNA-seq, TCR-seq, Visium HD, and Stereo-seq.
 
-Before my current academic research career, I served in the Republic of Korea Army for 14 years and taught mathematics and statistics at the Korea Military Academy.
+Before my current academic research career, I **served in the Republic of Korea Army for 14 years (retired Major)** and taught mathematics and statistics at the Korea Military Academy.
 
 ## Research interests
 

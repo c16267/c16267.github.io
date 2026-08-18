@@ -8,7 +8,7 @@ permalink: /research/
 
 ## I. Statistical Methodology
 
-### Peer-reviewed journal articles
+### - Peer-reviewed journal articles
 
 <ol class="pub-list">
   <li><div class="pub-title">psvmSDR: An R package for a unified algorithm for sufficient dimension reduction via principal machines</div><div class="pub-meta"><strong>J. Shin</strong>, S. J. Shin, A. Artemiou (2026). <em>The R Journal</em>, in press. <a href="https://arxiv.org/abs/2409.01547">arXiv</a> · <a href="https://cran.r-project.org/package=psvmSDR">CRAN</a></div></li>

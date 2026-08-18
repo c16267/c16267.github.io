@@ -5,11 +5,7 @@ title: Home
 
 # Jungmin Shin
 
-<p class="lead">
-Statistician developing methodology for high-dimensional biomedical data, with an emphasis on spatial omics, sufficient dimension reduction, and statistical machine learning.
-</p>
-
-I am a **Postdoctoral Researcher in the Department of Biomedical Informatics at The Ohio State University**, working with Dr. Dongjun Chung. I received my Ph.D. in Statistics from Korea University under Dr. Seung Jun Shin and my M.S. in Statistics from Purdue University.
+I am a **Postdoctoral Researcher in the Department of Biomedical Informatics at The Ohio State University**, working with [Dr. Dongjun Chung](https://sites.google.com/site/statdchung/). I received my Ph.D. in Statistics from Korea University under [Dr. Seung Jun Shin](https://www.sjshin.net/) and my M.S. in Statistics from Purdue University.
 
 My methodological research spans **high-dimensional statistics, sufficient dimension reduction, statistical deep learning, and spatial statistics**, with applications to bulk RNA-seq, single-cell and spatial omics, and multi-omics integration. I also serve as a **lead biostatistician for immuno-oncology studies** at OSU, working with longitudinal biomarkers, survival outcomes, cytokine assays, spectral flow cytometry, scRNA-seq, TCR-seq, Visium HD, and Stereo-seq.
 

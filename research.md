@@ -17,19 +17,19 @@ permalink: /research/
   <li><div class="pub-title">Concise overview of principal support vector machine</div><div class="pub-meta"><strong>J. Shin</strong>, S. J. Shin (2024). <em>Communications for Statistical Applications and Methods</em>, 31(2), 235–246. <a href="https://doi.org/10.29220/CSAM.2024.31.2.235">DOI</a></div></li>
 </ol>
 
-### Peer-reviewed conference proceeding
+### - Peer-reviewed conference proceeding
 
 <ol class="pub-list">
   <li><div class="pub-title">Privacy-preserving face redaction using crowdsourcing</div><div class="pub-meta">A. B. Alshaibani, S. T. Carrell, L.-H. Tseng, <strong>J. Shin</strong>, A. Quinn (2020). <em>Proceedings of the AAAI Conference on Human Computation and Crowdsourcing</em>, 8, 13–22. <a href="https://doi.org/10.1609/hcomp.v8i1.7459">DOI</a></div></li>
 </ol>
 
-### Book
+### - Book
 
 <ol class="pub-list">
   <li><div class="pub-title">Introduction to Statistics and Its Application with R</div><div class="pub-meta"><strong>J. Shin</strong>, J. Kang, Y. Lee, S. Bang (2022). Kyowoo. ISBN 979-11-251-0339-4. <a href="https://product.kyobobook.co.kr/detail/S000001648061">Book page</a></div></li>
 </ol>
 
-### Submitted and under review
+### - Submitted or under review
 
 <ol class="pub-list compact">
   <li><div class="pub-title">Penalized principal machines for sufficient dimension reduction and its efficient computation</div><div class="pub-meta"><strong>J. Shin</strong>, S. J. Shin (2025). Revision submitted to <em>Computational Statistics & Data Analysis</em>. <a href="https://cran.r-project.org/web/packages/ppmSDR/index.html">ppmSDR on CRAN</a></div></li>
@@ -41,7 +41,7 @@ permalink: /research/
   <li><div class="pub-title">A statistical testing framework with iterative scenario sampling for distributionally robust inverse optimization</div><div class="pub-meta">J. Cha, J. Cho, J. Lee, <strong>J. Shin</strong>, J. Ryu (2025). Under review.</div></li>
 </ol>
 
-### In preparation
+### - In preparation
 
 <ol class="pub-list compact">
   <li><div class="pub-title">spaCraft: Calibrated power analysis and sample-size planning for multi-sample spatial transcriptomics</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung (2026). In preparation. <a href="https://github.com/c16267/spaCraft">GitHub</a></div></li>
@@ -53,7 +53,7 @@ permalink: /research/
 
 ## II. Biomedical and Collaborative Research
 
-### Peer-reviewed conference abstracts
+### - Peer-reviewed conference abstracts
 
 <ol class="pub-list">
   <li><div class="pub-title">Biomarker-driven exploratory clustering of cytokine and hematologic profiles in a Phase II trial of metronomic chemotherapy plus cemiplimab in R/M HNSCC</div><div class="pub-meta">M. R. Bonomi, <strong>J. Shin</strong>, et al. <em>ESMO 2026 Congress</em>, Madrid, Oct. 2026. Accepted e-Poster, Abstract No. 4631.</div><div class="pub-note">Contribution: Lead biostatistician; UMAP-HDBSCAN clustering, cluster characterization, and biomarker-survival analyses.</div></li>
@@ -62,7 +62,7 @@ permalink: /research/
   <li><div class="pub-title">Decoding immune suppression in Merkel cell carcinoma through integrated spatial transcriptomics and multiplex proteomics</div><div class="pub-meta">S. Priya, Y. Koguchi, R. Teodorescu, K. J. Jung, <strong>J. Shin</strong>, et al., M. P. Rubinstein. <em>SITC 40th Annual Meeting</em>, Houston, Nov. 2025. Publication No. A106. <a href="https://jitc.bmj.com/content/13/Suppl_2/A106">Publication</a></div><div class="pub-note">Contribution: Lead biostatistician; integrated spatial transcriptomics and multiplex proteomics analysis.</div></li>
 </ol>
 
-### Clinical manuscripts in preparation
+### - Clinical manuscripts in preparation
 
 <ol class="pub-list compact">
   <li><div class="pub-title">Phase I study assessing the safety and immunomodulatory effects of prophylactic siltuximab prior to standard-of-care CD19-directed chimeric antigen receptor therapy</div><div class="pub-meta">N. Denlinger†, <strong>J. Shin†</strong>, et al. (2026). In preparation. <strong>Co-first author.</strong></div><div class="pub-note">Contribution: Lead statistician; all statistical analyses including mixed models, survival analysis, multivariable regression, and longitudinal analysis.</div></li>

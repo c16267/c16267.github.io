@@ -42,17 +42,4 @@ Retired Army Officer, **Major**. Served in command, leadership, logistics, and i
 Assistant Professor (Non-Tenure-Track) · **Apr. 2022–Jan. 2024**  
 Lecturer · **Jun. 2020–Mar. 2022**
 
-## Grants and funded research
-
-- **Statistical Power Analysis Framework for Multi-Sample and Cross-Platform Spatial Omics** — NIH/NIGMS, Grant 5R01GM152585-02, **$1,590,918**, Feb. 2025–Present. Role: Postdoctoral Researcher; PI: Dr. Dongjun Chung.
-- **A Study on Nonlinear Multivariate Regression Using Deep Neural Networks** — National Research Foundation of Korea, Grant NRF-2022R1F1A1061622, **$103,448**, Jun. 2022–May 2025. Role: Co-Investigator; PI: Dr. Sungwan Bang.
-- **NBC-RAMS Data Conversion Standardization Module Development Research** — Agency for Defense Development, Republic of Korea, Grant 202300030001, **$149,530**, Jan. 2023–Jun. 2024. Role: Co-Investigator; PI: Dr. Byounghak Lee.
-
-## Honors & awards
-
-- **2025** — Best Ph.D. Dissertation Award, College of Political Sciences, Korea University
-- **2024** — Best Student Paper Prize, The Korean Statistical Society
-- **2023** — Best Paper Prize, Chung-Nam Institute
-- **2023** — Letter of Commendation for simulation support, Republic of Korea Army Chief of Staff
-- **Career total** — 17 Letters of Commendation from the Republic of Korea Army
  

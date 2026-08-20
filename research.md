@@ -36,9 +36,6 @@ permalink: /research/
     <li><div class="pub-title">SpaDesign: Simulation-based framework for determining sequencing depth for spatial transcriptomics experiments</div><div class="pub-meta">J. Xie†, <strong>J. Shin†</strong>, H. Jeon, W. Chang, K. J. Jung, Y. Jeon, Z. Li, Q. Ma, D. Chung (2026). Revision invited from <em>PLOS Computational Biology</em>. †Equal contribution.</div></li>
   <li><div class="pub-title">Penalized deep support vector machines for nonlinear classification and variable selection</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung, S. Bang (2026). Under review.</div></li>
   <li><div class="pub-title">A unified framework of penalized deep composite quantile regression for simultaneous function estimation and variable selection</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung, S. J. Shin, S. Bang (2025). Under review.</div></li>
-  <li><div class="pub-title">FOSSIL: Regret-minimizing weighting for robust learning under imbalance and small data</div><div class="pub-meta">J. Cha, J. Lee, J. Cho, <strong>J. Shin</strong> (2025). Under review. <a href="https://arxiv.org/abs/2509.13218">arXiv</a></div></li>
-  <li><div class="pub-title">Optimization of Bregman-variational learning dynamics</div><div class="pub-meta">J. Cha, Y. Kim, <strong>J. Shin</strong>, J. Cho, S. J. Kim, J. Ryu (2025). Under review.</div></li>
-  <li><div class="pub-title">A statistical testing framework with iterative scenario sampling for distributionally robust inverse optimization</div><div class="pub-meta">J. Cha, J. Cho, J. Lee, <strong>J. Shin</strong>, J. Ryu (2025). Under review.</div></li>
 </ol>
 
 ### - In preparation

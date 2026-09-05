@@ -10,7 +10,7 @@ My teaching experience spans **12 undergraduate course offerings over seven seme
 
 ---
 
-## 📌 Faculty & Primary Instructor
+## Faculty & Semester-Long Instruction
 
 ### Assistant Professor / Lecturer
 **Korea Military Academy** · *Department of Mathematics (2020–2024 | Seoul, South Korea)*
@@ -25,25 +25,28 @@ Taught undergraduate mathematics and statistics over seven semesters. Mentored c
 * **Calculus** (Fall 2020)
 * **Mathematics for AI** (Fall 2020)
 
----
-
-## 📌 Invited & Guest Lectures
-
-### Guest Lecturer
-**The Ohio State University** · *Spring 2026 | Columbus, OH*
-* **Course:** BMI 7235: Machine Learning and AI in Omics Data Analysis
-* **Details:** Covered statistical foundations and practical applications of deep learning models for high-dimensional omics data.
-
 ### Invited Lecturer
 **Korea University College of Medicine** · *Feb.–May 2026 | Online (English-medium)*
+
 * **Course:** Basic Statistics: Theory and Applications
 * **Details:** Delivered approximately **30 hours of English-medium instruction** to international master's students selected as Dr. Lee Jong-wook Fellows. Supported by the Korea Foundation for International Healthcare (KOFIH).
 
 ---
 
-## 📌 Teaching Assistantship
+## Guest Lectures
+
+### Guest Lecturer
+**The Ohio State University** · *Spring 2026 | Columbus, OH*
+
+* **Course:** BMI 7235: Machine Learning and AI in Omics Data Analysis
+* **Details:** Covered statistical foundations and practical applications of deep learning models for high-dimensional omics data.
+
+---
+
+## Teaching Assistantship
 
 ### Teaching Assistant
 **Purdue University** · *Summer 2019 | West Lafayette, IN*
+
 * **Course:** STAT 301: Elementary Statistical Methods
 * **Details:** Conducted lab sessions and office hours, graded assignments and exams, and supported course administration.

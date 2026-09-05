@@ -10,7 +10,7 @@ permalink: /talks/
 
 <div class="timeline">
   <div class="timeline-item"><div class="timeline-date">Sep. 2026</div><div><strong>The Ohio State University, Department of Biomedical Informatics Seminar</strong><br><em>spaCraft: Calibrated power analysis and sample-size planning for multi-sample spatial transcriptomics.</em><br>Columbus, OH.</div></div>
-  <div class="timeline-item"><div class="timeline-date">Jul. 2026</div><div><strong>IMS New Researchers Conference (NRC 2026)</strong> — Lightning Talk<br><em>spaCraft: Calibrated power analysis and sample-size planning for multi-sample spatial transcriptomics.</em><br>UMass Amherst, MA. Selected participant; fully funded by NSF and IMS.</div></div>
+  <div class="timeline-item"><div class="timeline-date">Jul. 2026</div><div><strong>IMS New Researchers Conference (NRC 2026)</strong> — Lightning Talk<br><em>spaCraft: Calibrated power analysis and sample-size planning for multi-sample spatial transcriptomics.</em><br>UMass Amherst, MA. <strong>Selected participant; fully funded by NSF and IMS.<strong></div></div>
   <div class="timeline-item"><div class="timeline-date">Dec. 2025</div><div><strong>1st IMS International New Researchers Conference</strong><br><em>Penalized principal machines for sufficient dimension reduction and its efficient computation.</em><br>Seville, Spain. One of 50 early-career researchers selected worldwide; funded by IMS.</div></div>
   <div class="timeline-item"><div class="timeline-date">Apr. 2025</div><div><strong>Purdue University, Department of Statistics</strong><br><em>Principal machine: A unified and computationally efficient approach to SDR.</em><br>West Lafayette, IN.</div></div>
 </div>

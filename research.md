@@ -32,7 +32,7 @@ permalink: /research/
 ### ▪ Submitted or under review
 
 <ol class="pub-list compact">
-  <li><div class="pub-title">spaCraft: Calibrated power analysis and sample-size planning for multi-sample spatial transcriptomics</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung (2026). Submitted to <em>Nature Methods</em>. <a href="https://github.com/c16267/spaCraft">GitHub</a></div></li>
+<li><div class="pub-title">spaCraft: Calibrated power analysis and sample-size planning for multi-sample spatial transcriptomics</div><div class="pub-meta"><strong>J. Shin</strong>, J. Xie, X. Jin, Q. Ma, D. Chung (2026). Submitted to <em>Nature Methods</em>. <a href="https://github.com/c16267/spaCraft">GitHub</a></div></li>
   <li><div class="pub-title">Penalized principal machines for sufficient dimension reduction and its efficient computation</div><div class="pub-meta"><strong>J. Shin</strong>, S. J. Shin (2025). Revision submitted to <em>Computational Statistics & Data Analysis</em>. <a href="https://cran.r-project.org/web/packages/ppmSDR/index.html">ppmSDR on CRAN</a></div></li>
   <li><div class="pub-title">SpaDesign: Simulation-based framework for determining sequencing depth for spatial transcriptomics experiments</div><div class="pub-meta">J. Xie†, <strong>J. Shin†</strong>, H. Jeon, W. Chang, K. J. Jung, Y. Jeon, Z. Li, Q. Ma, D. Chung (2026). Revision invited from <em>PLOS Computational Biology</em>. †Equal contribution.</div></li>
   <li><div class="pub-title">Penalized deep support vector machines for nonlinear classification and variable selection</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung, S. Bang (2026). Under review.</div></li>

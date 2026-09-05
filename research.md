@@ -11,39 +11,39 @@ permalink: /research/
 ### ▪ Peer-reviewed journal articles
 
 <ol class="pub-list">
-  <li><div class="pub-title">psvmSDR: An R package for a unified algorithm for sufficient dimension reduction via principal machines</div><div class="pub-meta">J. Shin, S. J. Shin, A. Artemiou (2026). <em>The R Journal</em>, in press. <a href="https://arxiv.org/abs/2409.01547">arXiv</a> · <a href="https://cran.r-project.org/package=psvmSDR">CRAN</a></div></li>
-  <li><div class="pub-title">A least distance estimator for a multivariate regression model using deep neural networks</div><div class="pub-meta">J. Shin, S. J. Shin, S. Bang (2025). <em>Journal of Statistical Computation and Simulation</em>, 95(10), 2308–2325. <a href="https://doi.org/10.1080/00949655.2025.2492195">DOI</a></div></li>
-  <li><div class="pub-title">Simultaneous estimation and variable selection for a non-crossing multiple quantile regression using deep neural network</div><div class="pub-meta">J. Shin, S. Kwak, S. J. Shin, S. Bang (2024). <em>Statistics and Computing</em>, 34, 102. <a href="https://doi.org/10.1007/s11222-024-10418-4">DOI</a></div></li>
-  <li><div class="pub-title">Concise overview of principal support vector machine</div><div class="pub-meta">J. Shin, S. J. Shin (2024). <em>Communications for Statistical Applications and Methods</em>, 31(2), 235–246. <a href="https://doi.org/10.29220/CSAM.2024.31.2.235">DOI</a></div></li>
+  <li><div class="pub-title">psvmSDR: An R package for a unified algorithm for sufficient dimension reduction via principal machines</div><div class="pub-meta"><strong>J. Shin</strong>, S. J. Shin, A. Artemiou (2026). <em>The R Journal</em>, in press. <a href="https://arxiv.org/abs/2409.01547">arXiv</a> · <a href="https://cran.r-project.org/package=psvmSDR">CRAN</a></div></li>
+  <li><div class="pub-title">A least distance estimator for a multivariate regression model using deep neural networks</div><div class="pub-meta"><strong>J. Shin</strong>, S. J. Shin, S. Bang (2025). <em>Journal of Statistical Computation and Simulation</em>, 95(10), 2308–2325. <a href="https://doi.org/10.1080/00949655.2025.2492195">DOI</a></div></li>
+  <li><div class="pub-title">Simultaneous estimation and variable selection for a non-crossing multiple quantile regression using deep neural network</div><div class="pub-meta"><strong>J. Shin</strong>, S. Kwak, S. J. Shin, S. Bang (2024). <em>Statistics and Computing</em>, 34, 102. <a href="https://doi.org/10.1007/s11222-024-10418-4">DOI</a></div></li>
+  <li><div class="pub-title">Concise overview of principal support vector machine</div><div class="pub-meta"><strong>J. Shin</strong>, S. J. Shin (2024). <em>Communications for Statistical Applications and Methods</em>, 31(2), 235–246. <a href="https://doi.org/10.29220/CSAM.2024.31.2.235">DOI</a></div></li>
 </ol>
 
 ### ▪ Peer-reviewed conference proceeding
 
 <ol class="pub-list">
-  <li><div class="pub-title">Privacy-preserving face redaction using crowdsourcing</div><div class="pub-meta">A. B. Alshaibani, S. T. Carrell, L.-H. Tseng, J. Shin, A. Quinn (2020). <em>Proceedings of the AAAI Conference on Human Computation and Crowdsourcing</em>, 8, 13–22. <a href="https://doi.org/10.1609/hcomp.v8i1.7459">DOI</a></div></li>
+  <li><div class="pub-title">Privacy-preserving face redaction using crowdsourcing</div><div class="pub-meta">A. B. Alshaibani, S. T. Carrell, L.-H. Tseng, <strong>J. Shin</strong>, A. Quinn (2020). <em>Proceedings of the AAAI Conference on Human Computation and Crowdsourcing</em>, 8, 13–22. <a href="https://doi.org/10.1609/hcomp.v8i1.7459">DOI</a></div></li>
 </ol>
 
 ### ▪ Book
 
 <ol class="pub-list">
-  <li><div class="pub-title">Introduction to Statistics and Its Application with R</div><div class="pub-meta">J. Shin, J. Kang, Y. Lee, S. Bang (2022). Kyowoo. ISBN 979-11-251-0339-4. <a href="https://product.kyobobook.co.kr/detail/S000001648061">Book page</a></div></li>
+  <li><div class="pub-title">Introduction to Statistics and Its Application with R</div><div class="pub-meta"><strong>J. Shin</strong>, J. Kang, Y. Lee, S. Bang (2022). Kyowoo. ISBN 979-11-251-0339-4. <a href="https://product.kyobobook.co.kr/detail/S000001648061">Book page</a></div></li>
 </ol>
 
 ### ▪ Submitted or under review
 
 <ol class="pub-list compact">
-  <li><div class="pub-title">spaCraft: Calibrated power analysis and sample-size planning for multi-sample spatial transcriptomics</div><div class="pub-meta">J. Shin, D. Chung (2026). Submitted to <em>Nature Methods</em>. <a href="https://github.com/c16267/spaCraft">GitHub</a></div></li>
-  <li><div class="pub-title">Penalized principal machines for sufficient dimension reduction and its efficient computation</div><div class="pub-meta">J. Shin, S. J. Shin (2025). Revision submitted to <em>Computational Statistics & Data Analysis</em>. <a href="https://cran.r-project.org/web/packages/ppmSDR/index.html">ppmSDR on CRAN</a></div></li>
-  <li><div class="pub-title">SpaDesign: Simulation-based framework for determining sequencing depth for spatial transcriptomics experiments</div><div class="pub-meta">J. Xie†, J. Shin†, H. Jeon, W. Chang, K. J. Jung, Y. Jeon, Z. Li, Q. Ma, D. Chung (2026). Revision invited from <em>PLOS Computational Biology</em>. †Equal contribution.</div></li>
-  <li><div class="pub-title">Penalized deep support vector machines for nonlinear classification and variable selection</div><div class="pub-meta">J. Shin, D. Chung, S. Bang (2026). Under review.</div></li>
-  <li><div class="pub-title">A unified framework of penalized deep composite quantile regression for simultaneous function estimation and variable selection</div><div class="pub-meta">J. Shin, D. Chung, S. J. Shin, S. Bang (2025). Under review.</div></li>
+  <li><div class="pub-title">spaCraft: Calibrated power analysis and sample-size planning for multi-sample spatial transcriptomics</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung (2026). Submitted to <em>Nature Methods</em>. <a href="https://github.com/c16267/spaCraft">GitHub</a></div></li>
+  <li><div class="pub-title">Penalized principal machines for sufficient dimension reduction and its efficient computation</div><div class="pub-meta"><strong>J. Shin</strong>, S. J. Shin (2025). Revision submitted to <em>Computational Statistics & Data Analysis</em>. <a href="https://cran.r-project.org/web/packages/ppmSDR/index.html">ppmSDR on CRAN</a></div></li>
+  <li><div class="pub-title">SpaDesign: Simulation-based framework for determining sequencing depth for spatial transcriptomics experiments</div><div class="pub-meta">J. Xie†, <strong>J. Shin†</strong>, H. Jeon, W. Chang, K. J. Jung, Y. Jeon, Z. Li, Q. Ma, D. Chung (2026). Revision invited from <em>PLOS Computational Biology</em>. †Equal contribution.</div></li>
+  <li><div class="pub-title">Penalized deep support vector machines for nonlinear classification and variable selection</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung, S. Bang (2026). Under review.</div></li>
+  <li><div class="pub-title">A unified framework of penalized deep composite quantile regression for simultaneous function estimation and variable selection</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung, S. J. Shin, S. Bang (2025). Under review.</div></li>
 </ol>
 
 ### ▪ In preparation
 
 <ol class="pub-list compact">
-  <li><div class="pub-title">Circular data analysis in spatial omics</div><div class="pub-meta">J. Shin, A. Gupta, P.-H. Mao, K. Thakkar, J. Y. Kim, Y. Cho, J. Yoo, T. Amireddy, K. J. Jung, H. Jeon, J. Xie*, D. Chung* (2026). In preparation.</div></li>
-  <li><div class="pub-title">CellPacman: An interpretable machine-learning pipeline for phenotypic discovery and dose-response characterization of Cell Painting assays</div><div class="pub-meta">M. Kotian†, J. Shin†, et al., D. Chung (2026). In preparation. <strong>Co-first author.</strong></div></li>
+  <li><div class="pub-title">Circular data analysis in spatial omics</div><div class="pub-meta"><strong>J. Shin</strong>, A. Gupta, P.-H. Mao, K. Thakkar, J. Y. Kim, Y. Cho, J. Yoo, T. Amireddy, K. J. Jung, H. Jeon, J. Xie*, D. Chung* (2026). In preparation.</div></li>
+  <li><div class="pub-title">CellPacman: An interpretable machine-learning pipeline for phenotypic discovery and dose-response characterization of Cell Painting assays</div><div class="pub-meta">M. Kotian†, <strong>J. Shin†</strong>, et al., D. Chung (2026). In preparation. <strong>Co-first author.</strong></div></li>
 </ol>
 
 ---
@@ -53,17 +53,19 @@ permalink: /research/
 ### ▪ Peer-reviewed conference abstracts
 
 <ol class="pub-list">
-  <li><div class="pub-title">Biomarker-driven exploratory clustering of cytokine and hematologic profiles in a Phase II trial of metronomic chemotherapy plus cemiplimab in R/M HNSCC</div><div class="pub-meta">M. R. Bonomi, J. Shin, et al. <em>ESMO 2026 Congress</em>, Madrid, Oct. 2026. Accepted e-Poster, Abstract No. 4631.</div><div class="pub-note">Contribution: Lead biostatistician; UMAP-HDBSCAN clustering, cluster characterization, and biomarker-survival analyses.</div></li>
-  <li><div class="pub-title">Cytokine analysis in a Phase II trial of metronomic carboplatin/paclitaxel plus cemiplimab for recurrent/metastatic head and neck squamous cell carcinoma</div><div class="pub-meta">M. R. Bonomi, J. Shin, et al. <em>2026 ASCO Annual Meeting</em>, Chicago, May 2026. Abstract No. 6044. <a href="https://doi.org/10.1200/JCO.2026.44.16_suppl.6044">DOI</a></div><div class="pub-note">Contribution: Lead biostatistician; longitudinal cytokine analyses, response-group comparisons, multiplicity-adjusted testing, and survival analyses.</div></li>
-  <li><div class="pub-title">Safety and immunomodulatory effects of siltuximab prophylaxis prior to standard-of-care CD19-directed CAR T-cell therapy for B-cell lymphomas: Final Phase I trial results</div><div class="pub-meta">N. Denlinger, N. Song, et al., J. Shin, et al., T. Voorhees. <em>67th ASH Annual Meeting</em>, Dec. 2025. Published abstract in <em>Blood</em>, 146, 2385. <a href="https://doi.org/10.1182/blood-2025-2385">DOI</a></div><div class="pub-note">Contribution: Lead biostatistician; time-matched cohort comparisons of spectral flow cytometry, cytokine, response, and survival data.</div></li>
-  <li><div class="pub-title">Decoding immune suppression in Merkel cell carcinoma through integrated spatial transcriptomics and multiplex proteomics</div><div class="pub-meta">S. Priya, Y. Koguchi, R. Teodorescu, K. J. Jung, J. Shin, et al., M. P. Rubinstein. <em>SITC 40th Annual Meeting</em>, Houston, Nov. 2025. Publication No. A106. <a href="https://jitc.bmj.com/content/13/Suppl_2/A106">Publication</a></div><div class="pub-note">Contribution: Lead biostatistician; integrated spatial transcriptomics and multiplex proteomics analysis.</div></li>
+  <li><div class="pub-title">Biomarker-driven exploratory clustering of cytokine and hematologic profiles in a Phase II trial of metronomic chemotherapy plus cemiplimab in R/M HNSCC</div><div class="pub-meta">M. R. Bonomi, <strong>J. Shin</strong>, et al. <em>ESMO 2026 Congress</em>, Madrid, Oct. 2026. Accepted e-Poster, Abstract No. 4631.</div><div class="pub-note">Contribution: Lead biostatistician; UMAP-HDBSCAN clustering, cluster characterization, and biomarker-survival analyses.</div></li>
+  <li><div class="pub-title">Cytokine analysis in a Phase II trial of metronomic carboplatin/paclitaxel plus cemiplimab for recurrent/metastatic head and neck squamous cell carcinoma</div><div class="pub-meta">M. R. Bonomi, <strong>J. Shin</strong>, et al. <em>2026 ASCO Annual Meeting</em>, Chicago, May 2026. Abstract No. 6044. <a href="https://doi.org/10.1200/JCO.2026.44.16_suppl.6044">DOI</a></div><div class="pub-note">Contribution: Lead biostatistician; longitudinal cytokine analyses, response-group comparisons, multiplicity-adjusted testing, and survival analyses.</div></li>
+  <li><div class="pub-title">Safety and immunomodulatory effects of siltuximab prophylaxis prior to standard-of-care CD19-directed CAR T-cell therapy for B-cell lymphomas: Final Phase I trial results</div><div class="pub-meta">N. Denlinger, N. Song, et al., <strong>J. Shin</strong>, et al., T. Voorhees. <em>67th ASH Annual Meeting</em>, Dec. 2025. Published abstract in <em>Blood</em>, 146, 2385. <a href="https://doi.org/10.1182/blood-2025-2385">DOI</a></div><div class="pub-note">Contribution: Lead biostatistician; time-matched cohort comparisons of spectral flow cytometry, cytokine, response, and survival data.</div></li>
+  <li><div class="pub-title">Decoding immune suppression in Merkel cell carcinoma through integrated spatial transcriptomics and multiplex proteomics</div><div class="pub-meta">S. Priya, Y. Koguchi, R. Teodorescu, K. J. Jung, <strong>J. Shin</strong>, et al., M. P. Rubinstein. <em>SITC 40th Annual Meeting</em>, Houston, Nov. 2025. Publication No. A106. <a href="https://jitc.bmj.com/content/13/Suppl_2/A106">Publication</a></div><div class="pub-note">Contribution: Lead biostatistician; integrated spatial transcriptomics and multiplex proteomics analysis.</div></li>
 </ol>
 
 ### ▪ Clinical manuscripts in preparation
 
 <ol class="pub-list compact">
-  <li><div class="pub-title">Phase I study assessing the safety and immunomodulatory effects of prophylactic siltuximab prior to standard-of-care CD19-directed chimeric antigen receptor therapy</div><div class="pub-meta">N. Denlinger†, J. Shin†, et al. (2026). In preparation. <strong>Co-first author.</strong></div><div class="pub-note">Contribution: Lead statistician; all statistical analyses including mixed models, survival analysis, multivariable regression, and longitudinal analysis.</div></li>
-  <li><div class="pub-title">Clinical and genomic predictors of hyperprogression in recurrent/metastatic head and neck cancer: Discovery and validation</div><div class="pub-meta">N. Mladkova-Suchy†, K. Dibs†, J. Shin, et al. (2026). In preparation.</div><div class="pub-note">Contribution: Lead biostatistician responsible for all statistical analyses.</div></li>
+  <li><div class="pub-title">Phase I study assessing the safety and immunomodulatory effects of prophylactic siltuximab prior to standard-of-care CD19-directed chimeric antigen receptor therapy</div><div class="pub-meta">N. Denlinger†, <strong>J. Shin†</strong>, et al. (2026). In preparation. <strong>Co-first author.</strong></div><div class="pub-note">Contribution: Lead statistician; all statistical analyses including mixed models, survival analysis, multivariable regression, and longitudinal analysis.</div></li>
+  <li><div class="pub-title">Clinical and genomic predictors of hyperprogression in recurrent/metastatic head and neck cancer: Discovery and validation</div><div class="pub-meta">N. Mladkova-Suchy†, K. Dibs†, <strong>J. Shin</strong>, et al. (2026). In preparation.</div><div class="pub-note">Contribution: Lead biostatistician responsible for all statistical analyses.</div></li>
 </ol>
 
 <p class="footnote">* Corresponding author. † Equal contribution where indicated. Publication status and wording follow the attached CV.</p>
+
+For citation metrics and the most recent indexing, see my **[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=VxeyTKUAAAAJ)**.

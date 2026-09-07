@@ -5,7 +5,7 @@ title: Home
 
 # Jungmin Shin
 
-I am a **Postdoctoral Researcher** in Biomedical Informatics at **The Ohio State University**, working with [Dr. Dongjun Chung](https://sites.google.com/site/statdchung/). I hold a Ph.D. in Statistics from Korea University ([Dr. Seung Jun Shin](https://www.sjshin.net/)), an M.S. in Statistics from Purdue University, and a B.S. in Mathematics from the Korea Military Academy. 
+I am a **Postdoctoral Researcher** in Biomedical Informatics at **The Ohio State University**, where I have the privilege of working under the mentorship of [Dr. Dongjun Chung](https://sites.google.com/site/statdchung/). I hold a Ph.D. in Statistics from Korea University, where I was fortunate to be advised by [Dr. Seung Jun Shin](https://www.sjshin.net/), alongside an M.S. in Statistics from Purdue University and a B.S. in Mathematics from the Korea Military Academy.
 
 Prior to my academic career, I served as an **officer in the Republic of Korea Army for 14 years (Retired Major)** and taught mathematics and statistics at the Korea Military Academy.
 

@@ -49,8 +49,8 @@ permalink: /research/
   <li><div class="pub-title">CellPacman: An interpretable machine-learning pipeline for phenotypic discovery and dose-response characterization of Cell Painting assays</div><div class="pub-meta">M. Kotian†, <strong>J. Shin†</strong>, et al., D. Chung (2026). In preparation. <strong>Co-first author.</strong></div></li>
   <li><div class="pub-title">Sparse and Stable Response-Sufficient Representations for Single-Cell Omics</div><div class="pub-meta"><strong>J. Shin</strong> (2026). In preparation.</div></li>
   <li><div class="pub-title">Spatial Principal Machines for Sparse Sufficient Dimension Reduction</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung (2026). In preparation.</div></li>
-  <li><div class="pub-title">VeteranST: Transcriptional Variability and Gene Co-Expression Analysis in Spatial Transcriptomics</div><div class="pub-meta">J. Kim, K. Jung, <strong>J. Shin</strong>, D. Chung*, S. Shin (2026). In preparation.</div></li>
-  <li><div class="pub-title">Spatial Network Mediation: an interactive Shiny application for spatial transcriptomics mediation analysis</div><div class="pub-meta">S. Lee, <strong>J. Shin</strong>, D. Chung, I. H. Jin (2026). In preparation.</div></li>
+  <li><div class="pub-title">VeteranST: Transcriptional Variability and Gene Co-Expression Analysis in Spatial Transcriptomics</div><div class="pub-meta">J. Kim, K. Jung, <strong>J. Shin</strong>, D. Chung*, S. Shin* (2026). In preparation.</div></li>
+  <li><div class="pub-title">Spatial Network Mediation: an interactive Shiny application for spatial transcriptomics mediation analysis</div><div class="pub-meta">S. Lee, <strong>J. Shin</strong>, D. Chung, I. H. Jin* (2026). In preparation.</div></li>
 </ol>
 
 ---

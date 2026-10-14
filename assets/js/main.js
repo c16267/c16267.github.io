@@ -37,6 +37,7 @@ if (viewToggle) {
   select(0);
 }
 
+// News: show only the newest N items (<ul class="news-list" data-limit="7">) with a toggle
 document.querySelectorAll('.news-list[data-limit]').forEach((list) => {
   const limit = parseInt(list.dataset.limit || '7', 10);
   const items = Array.from(list.children).filter((el) => el.classList.contains('news-item'));

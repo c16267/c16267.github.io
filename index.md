@@ -42,6 +42,13 @@ My work bridges **methodological statistics** and **collaborative biostatistics*
     <li class="news-item">
     <div class="news-date">Oct 2026</div>
     <div>
+      <div class="news-title"><span class="tag tag--paper">Accepted</span>Paper accepted in <em>Computational Statistics &amp; Data Analysis</em></div>
+      <div class="news-desc"><em>Penalized principal machines for sufficient dimension reduction and its efficient computation</em> (with S. J. Shin). <span class="links"><a href="https://cran.r-project.org/web/packages/ppmSDR/index.html">ppmSDR · CRAN</a></span></div>
+    </div>
+  </li>
+    <li class="news-item">
+    <div class="news-date">Oct 2026</div>
+    <div>
       <div class="news-title"><span class="tag tag--paper">Preprint</span><em>Circular Data Analysis for Spatial Omics</em> is out on bioRxiv</div>
       <div class="news-desc">Practical guidance and R tools for periodic/directional omics measurements, with spatial transcriptomic case studies in Alzheimer's disease and ovarian cancer. <span class="links"><a href="https://www.biorxiv.org/content/10.64898/2026.09.29.755467v1">bioRxiv</a></span></div>
     </div>

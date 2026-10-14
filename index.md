@@ -38,7 +38,7 @@ My work bridges **methodological statistics** and **collaborative biostatistics*
 
 ## News
 
-<ul class="news-list">
+<ul class="news-list" data-limit="7">
     <li class="news-item">
     <div class="news-date">Oct 2026</div>
     <div>

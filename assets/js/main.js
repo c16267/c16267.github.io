@@ -38,7 +38,7 @@ if (viewToggle) {
 }
 
 document.querySelectorAll('.news-list[data-limit]').forEach((list) => {
-  const limit = parseInt(list.dataset.limit, 10);
+  const limit = parseInt(list.dataset.limit || '7', 10);
   const items = Array.from(list.children).filter((el) => el.classList.contains('news-item'));
   if (!limit || items.length <= limit) return;
   const extra = items.slice(limit);

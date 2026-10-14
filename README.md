@@ -36,3 +36,14 @@ git push -u origin main
 - `assets/css/main.css` — visual styling
 
 To update the photo, replace `images/profile.jpg`. To update CV content, edit the corresponding Markdown page and replace `files/CV_Jungmin_Shin.pdf` with the new PDF.
+
+## Editing cheatsheet (compact layout)
+
+- **News item (Home)** — copy one `<li class="news-item">` block in `index.md`. Tag classes: `tag--talk`, `tag--paper`, `tag--poster`, `tag--award`, `tag--course`.
+- **Publication** — copy one `<li>` inside the relevant `<ol class="pub-list">` in `research.md`. Numbering and the count bubble next to each heading update automatically.
+  - Link buttons: wrap links in `<span class="links">…</span>`.
+  - Badges: `<span class="badge badge--accepted">Accepted</span>`, `<span class="badge badge--cofirst">Co-first author</span>`.
+  - Remove `open` from `<details class="pub-group" open>` to collapse a group by default.
+- **Talk** — copy one `<li class="news-item">` block in `talks.md`.
+- **Course** — add `<li><span class="course-name">…</span><span class="course-term">…</span></li>` in `teaching.md`.
+- **Colors / sizes** — CSS variables at the top of `assets/css/main.css`.

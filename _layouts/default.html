@@ -4,24 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>
-    {% if page.title %}
-      {{ page.title }} | {{ site.title }}
-    {% else %}
-      {{ site.title }}
-    {% endif %}
-  </title>
+  <title>{% if page.title and page.url != '/' %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 
   <meta name="description" content="{{ site.description }}">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-  <link
-    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@400;500;600&display=swap"
-    rel="stylesheet">
-
-  <link rel="stylesheet" href="/assets/css/main.css?v=4">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v=5">
 </head>
 
 <body>
@@ -32,23 +23,17 @@
 
     {% include sidebar.html %}
 
-    <main class="page-content">
+    <main class="page-content" id="main">
       {{ content }}
     </main>
 
   </div>
 
   <footer class="site-footer">
-    <span>
-      © {{ 'now' | date: '%Y' }} Jungmin Shin. Built for GitHub Pages.
-    </span>
-
-    <span>
-      Last updated {{ site.time | date: '%B %Y' }}
-    </span>
+    © {{ 'now' | date: '%Y' }} Jungmin Shin · Last updated {{ site.time | date: '%B %Y' }} · Hosted on GitHub Pages
   </footer>
 
-  <script src="/assets/js/main.js?v=4"></script>
+  <script src="{{ '/assets/js/main.js' | relative_url }}?v=5"></script>
 
 </body>
 </html>

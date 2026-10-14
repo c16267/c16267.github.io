@@ -1,7 +1,9 @@
 <header class="masthead">
   <div class="masthead__inner">
     <a class="site-title" href="{{ '/' | relative_url }}">Jungmin Shin</a>
-    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
     <nav class="site-nav" aria-label="Primary navigation">
       <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
       <a href="{{ '/research/' | relative_url }}" {% if page.url contains '/research' %}class="active"{% endif %}>Research</a>

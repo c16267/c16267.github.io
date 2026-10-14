@@ -129,7 +129,7 @@ My work bridges **methodological statistics** and **collaborative biostatistics*
       </li>
       <li>
         <div class="entry-title">B.S. in Mathematics</div>
-        <div class="entry-meta"><span>Korea Military Academy</span><span></span></div>
+        <div class="entry-meta"><span>Korea Military Academy</span><span>2011</span></div>
       </li>
     </ul>
   </div>

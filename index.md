@@ -39,14 +39,14 @@ My work bridges **methodological statistics** and **collaborative biostatistics*
 ## News
 
 <ul class="news-list" data-limit="7">
-    <li class="news-item">
+  <li class="news-item">
     <div class="news-date">Oct 2026</div>
     <div>
       <div class="news-title"><span class="tag tag--paper">Accepted</span>Paper accepted in <em>Computational Statistics &amp; Data Analysis</em></div>
       <div class="news-desc"><em>Penalized principal machines for sufficient dimension reduction and its efficient computation</em> (with S. J. Shin). <span class="links"><a href="https://cran.r-project.org/web/packages/ppmSDR/index.html">ppmSDR · CRAN</a></span></div>
     </div>
   </li>
-    <li class="news-item">
+  <li class="news-item">
     <div class="news-date">Oct 2026</div>
     <div>
       <div class="news-title"><span class="tag tag--paper">Preprint</span><em>Circular Data Analysis for Spatial Omics</em> is out on bioRxiv</div>
@@ -93,6 +93,7 @@ My work bridges **methodological statistics** and **collaborative biostatistics*
       <div class="news-title"><span class="tag tag--award">Selected</span>Lightning talk at the IMS New Researchers Conference, UMass Amherst</div>
       <div class="news-desc">Selected participant; fully funded by NSF and IMS.</div>
     </div>
+  </li>
 </ul>
 
 <p class="section-more"><a href="{{ '/talks/' | relative_url }}">All talks →</a> &nbsp;·&nbsp; <a href="{{ '/research/' | relative_url }}">All publications →</a></p>

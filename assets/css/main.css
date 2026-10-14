@@ -95,18 +95,6 @@ img { max-width: 100%; }
   min-height: calc(100vh - var(--nav-h) - 66px);
 }
 
-.news-item.is-hidden { display: none; }
-.news-more {
-  display: inline-flex; align-items: center; gap: 6px;
-  margin: 8px 0 6px; padding: 5px 12px;
-  border: 1px solid var(--border); border-radius: 999px;
-  background: var(--bg-light); color: var(--primary);
-  font: inherit; font-size: 12.5px; font-weight: 600; cursor: pointer;
-}
-.news-more:hover { background: #eef3f8; border-color: #c9d6e2; }
-.news-more::after { content: "▾"; font-size: 11px; transition: transform .2s; }
-.news-more[aria-expanded="true"]::after { transform: rotate(180deg); }
-
 /* ---------- Profile card (sidebar) ---------- */
 .profile {
   position: sticky;
@@ -272,6 +260,19 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 28px 0; }
 .news-title { color: var(--primary); font-size: 14.5px; font-weight: 600; line-height: 1.5; }
 .news-desc { margin-top: 2px; color: var(--muted); font-size: 13.5px; line-height: 1.55; }
 .news-desc em { color: #444; }
+
+/* News: "Show all news" toggle (see data-limit in index.md) */
+.news-item.is-hidden { display: none; }
+.news-more {
+  display: inline-flex; align-items: center; gap: 6px;
+  margin: 8px 0 6px; padding: 5px 12px;
+  border: 1px solid var(--border); border-radius: 999px;
+  background: var(--bg-light); color: var(--primary);
+  font: inherit; font-size: 12.5px; font-weight: 600; cursor: pointer;
+}
+.news-more:hover { background: #eef3f8; border-color: #c9d6e2; }
+.news-more::after { content: "▾"; font-size: 11px; transition: transform .2s; }
+.news-more[aria-expanded="true"]::after { transform: rotate(180deg); }
 
 /* ---------- Home: research interest cards ---------- */
 .interest-grid {

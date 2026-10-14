@@ -86,28 +86,6 @@ My work bridges **methodological statistics** and **collaborative biostatistics*
       <div class="news-title"><span class="tag tag--award">Selected</span>Lightning talk at the IMS New Researchers Conference, UMass Amherst</div>
       <div class="news-desc">Selected participant; fully funded by NSF and IMS.</div>
     </div>
-  </li>
-  <li class="news-item">
-    <div class="news-date">May 2026</div>
-    <div>
-      <div class="news-title"><span class="tag tag--poster">Abstract</span>Poster at the 2026 ASCO Annual Meeting, Chicago</div>
-      <div class="news-desc">Cytokine analysis in a Phase II trial of metronomic chemotherapy plus cemiplimab for R/M HNSCC (lead biostatistician).</div>
-    </div>
-  </li>
-  <li class="news-item">
-    <div class="news-date">Feb 2026</div>
-    <div>
-      <div class="news-title"><span class="tag tag--course">Teaching</span>Invited Lecturer, Korea University College of Medicine</div>
-      <div class="news-desc">~30 hours of English-medium <em>Basic Statistics</em> for international master's students (KOFIH Dr. Lee Jong-wook Fellows).</div>
-    </div>
-  </li>
-  <li class="news-item">
-    <div class="news-date">Dec 2025</div>
-    <div>
-      <div class="news-title"><span class="tag tag--award">Selected</span>1st IMS International New Researchers Conference, Seville</div>
-      <div class="news-desc">One of 50 early-career researchers selected worldwide; presented penalized principal machines.</div>
-    </div>
-  </li>
 </ul>
 
 <p class="section-more"><a href="{{ '/talks/' | relative_url }}">All talks →</a> &nbsp;·&nbsp; <a href="{{ '/research/' | relative_url }}">All publications →</a></p>

@@ -36,3 +36,21 @@ if (viewToggle) {
   buttons.forEach((b, i) => b.addEventListener('click', () => select(i)));
   select(0);
 }
+
+document.querySelectorAll('.news-list[data-limit]').forEach((list) => {
+  const limit = parseInt(list.dataset.limit, 10);
+  const items = Array.from(list.children).filter((el) => el.classList.contains('news-item'));
+  if (!limit || items.length <= limit) return;
+  const extra = items.slice(limit);
+  const btn = document.createElement('button');
+  btn.type = 'button';
+  btn.className = 'news-more';
+  const setOpen = (open) => {
+    extra.forEach((el) => el.classList.toggle('is-hidden', !open));
+    btn.setAttribute('aria-expanded', String(open));
+    btn.textContent = open ? 'Show less' : `Show all news (${items.length})`;
+  };
+  btn.addEventListener('click', () => setOpen(btn.getAttribute('aria-expanded') !== 'true'));
+  list.after(btn);
+  setOpen(false);
+});

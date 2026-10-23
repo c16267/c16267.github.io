@@ -53,7 +53,8 @@ permalink: /research/
       <li><div class="pub-title">SpatialNetworkMediation: a framework for mediation analysis of spatial transcriptomic data</div><div class="pub-meta">S. Lee, <strong>J. Shin</strong>, D. Chung, I. H. Jin<sup>*</sup> (2026). Under review at <em>Bioinformatics</em>.</div></li>
       <li><div class="pub-title">A unified framework of penalized deep composite quantile regression for simultaneous function estimation and variable selection</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung, S. J. Shin, S. Bang (2025). Under review at <em>Statistics and Computing</em>.</div></li>
     </ol>
-
+  </details>
+</section>
 
 <section class="pub-area" data-area="biomed">
   <h2>II. Biomedical and Collaborative Research</h2>
@@ -73,7 +74,6 @@ permalink: /research/
       <li><div class="pub-title">Clinical and genomic predictors of hyperprogression in recurrent/metastatic head and neck cancer: Discovery and validation <span class="badge badge--cofirst">Co-first author</span></div><div class="pub-meta">N. Mladkova-Suchy<sup>†</sup>, K. Dibs<sup>†</sup>, <strong>J. Shin</strong><sup>†</sup>,…, P. Bhateja, M. Bonomi<sup>*</sup>, D. Blakaj<sup>*</sup> (2026). Under review at <em>JAMA Network Open</em>.</div><div class="pub-note"><b>Contribution:</b> Lead biostatistician responsible for conceptualization and all statistical analyses.</div></li>
     </ol>
   </details>
-    </details>
   <details class="pub-group" open>
     <summary><h3>In preparation</h3><span class="count"></span></summary>
     <ol class="pub-list">

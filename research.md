@@ -53,15 +53,7 @@ permalink: /research/
       <li><div class="pub-title">SpatialNetworkMediation: a framework for mediation analysis of spatial transcriptomic data</div><div class="pub-meta">S. Lee, <strong>J. Shin</strong>, D. Chung, I. H. Jin<sup>*</sup> (2026). Under review at <em>Bioinformatics</em>.</div></li>
       <li><div class="pub-title">A unified framework of penalized deep composite quantile regression for simultaneous function estimation and variable selection</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung, S. J. Shin, S. Bang (2025). Under review at <em>Statistics and Computing</em>.</div></li>
     </ol>
-  </details>
-  <details class="pub-group" open>
-    <summary><h3>In preparation</h3><span class="count"></span></summary>
-    <ol class="pub-list">
-      <li><div class="pub-title">CellPacman: An interpretable machine-learning pipeline for phenotypic discovery and dose–response characterization of Cell Painting assays <span class="badge badge--cofirst">Co-first author</span></div><div class="pub-meta">M. Kotian<sup>†</sup>, <strong>J. Shin</strong><sup>†</sup>, …, D. Chung (2026). In preparation.</div></li>
-      <li><div class="pub-title">Sparse and Stable Response-Sufficient Representations for Single-Cell Omics</div><div class="pub-meta"><strong>J. Shin</strong> (2026). In preparation.</div></li>
-      <li><div class="pub-title">Spatial Principal Machines for Sparse Sufficient Dimension Reduction</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung (2026). In preparation.</div></li>
-    </ol>
-  </details>
+
 </section>
 
 <section class="pub-area" data-area="biomed">
@@ -80,6 +72,15 @@ permalink: /research/
     <ol class="pub-list">
       <li><div class="pub-title">Phase I study assessing the safety and immunomodulatory effects of prophylactic siltuximab prior to standard-of-care CD19-directed chimeric antigen receptor therapy <span class="badge badge--cofirst">Co-first author</span></div><div class="pub-meta">N. Denlinger<sup>†</sup>, <strong>J. Shin</strong><sup>†</sup>, N. Song, …, D. Chung, M. P. Rubinstein, Z. Li, M. de Lima, P. Caimi, T. Voorhees<sup>*</sup> (2026). Under review at <em>Blood</em>.</div><div class="pub-note"><b>Contribution:</b> Lead statistician; performed all statistical analyses, including linear mixed-effects models, survival analysis, multivariate regression, and longitudinal data analysis.</div></li>
       <li><div class="pub-title">Clinical and genomic predictors of hyperprogression in recurrent/metastatic head and neck cancer: Discovery and validation <span class="badge badge--cofirst">Co-first author</span></div><div class="pub-meta">N. Mladkova-Suchy<sup>†</sup>, K. Dibs<sup>†</sup>, <strong>J. Shin</strong><sup>†</sup>,…, P. Bhateja, M. Bonomi<sup>*</sup>, D. Blakaj<sup>*</sup> (2026). Under review at <em>JAMA Network Open</em>.</div><div class="pub-note"><b>Contribution:</b> Lead biostatistician responsible for conceptualization and all statistical analyses.</div></li>
+    </ol>
+  </details>
+    </details>
+  <details class="pub-group" open>
+    <summary><h3>In preparation</h3><span class="count"></span></summary>
+    <ol class="pub-list">
+      <li><div class="pub-title">CellPacman: An interpretable machine-learning pipeline for phenotypic discovery and dose–response characterization of Cell Painting assays <span class="badge badge--cofirst">Co-first author</span></div><div class="pub-meta">M. Kotian<sup>†</sup>, <strong>J. Shin</strong><sup>†</sup>, …, D. Chung (2026). In preparation.</div></li>
+      <li><div class="pub-title">Sparse and Stable Response-Sufficient Representations for Single-Cell Omics</div><div class="pub-meta"><strong>J. Shin</strong> (2026). In preparation.</div></li>
+      <li><div class="pub-title">Spatial Principal Machines for Sparse Sufficient Dimension Reduction</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung (2026). In preparation.</div></li>
     </ol>
   </details>
 </section>

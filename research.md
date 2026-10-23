@@ -54,7 +54,6 @@ permalink: /research/
       <li><div class="pub-title">A unified framework of penalized deep composite quantile regression for simultaneous function estimation and variable selection</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung, S. J. Shin, S. Bang (2025). Under review at <em>Statistics and Computing</em>.</div></li>
     </ol>
 
-</section>
 
 <section class="pub-area" data-area="biomed">
   <h2>II. Biomedical and Collaborative Research</h2>

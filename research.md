@@ -75,9 +75,14 @@ permalink: /research/
     </ol>
   </details>
   <details class="pub-group" open>
+    <summary><h3>Manuscripts under review</h3><span class="count"></span></summary>
+    <ol class="pub-list">
+      <li><div class="pub-title">CellPacman: An interpretable machine-learning pipeline for phenotypic discovery and dose–response characterization of Cell Painting assays <span class="badge badge--cofirst">Co-first author</span></div><div class="pub-meta">M. Kotian<sup>†</sup>, <strong>J. Shin</strong><sup>†</sup>, …, D. Chung (2026). Under review at <em>Bioinformatics</em>.</div></li>
+    </ol>
+  </details>
+  <details class="pub-group" open>
     <summary><h3>In preparation</h3><span class="count"></span></summary>
     <ol class="pub-list">
-      <li><div class="pub-title">CellPacman: An interpretable machine-learning pipeline for phenotypic discovery and dose–response characterization of Cell Painting assays <span class="badge badge--cofirst">Co-first author</span></div><div class="pub-meta">M. Kotian<sup>†</sup>, <strong>J. Shin</strong><sup>†</sup>, …, D. Chung (2026). In preparation.</div></li>
       <li><div class="pub-title">Sparse and Stable Response-Sufficient Representations for Single-Cell Omics</div><div class="pub-meta"><strong>J. Shin</strong> (2026). In preparation.</div></li>
       <li><div class="pub-title">Spatial Principal Machines for Sparse Sufficient Dimension Reduction</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung (2026). In preparation.</div></li>
     </ol>

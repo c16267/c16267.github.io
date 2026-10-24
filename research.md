@@ -46,6 +46,7 @@ permalink: /research/
     <summary><h3>Manuscripts under review and revision</h3><span class="count"></span></summary>
     <ol class="pub-list">
       <li><div class="pub-title">spaCraft: Calibrated power analysis and sample-size planning for multi-sample spatial transcriptomics</div><div class="pub-meta"><strong>J. Shin</strong>, J. Xie, X. Jin, Q. Ma, D. Chung (2026). Under review at <em>Genome Biology</em>. <span class="links"><a href="https://doi.org/10.64898/2026.09.04.749534">bioRxiv</a><a href="https://github.com/c16267/spaCraft">GitHub</a></span></div></li>
+      <li><div class="pub-title">CellPacman: An interpretable machine-learning pipeline for phenotypic discovery and dose–response characterization of Cell Painting assays <span class="badge badge--cofirst">Co-first author</span></div><div class="pub-meta">M. Kotian<sup>†</sup>, <strong>J. Shin</strong><sup>†</sup>, …, D. Chung (2026). Under review at <em>Bioinformatics</em>.</div></li>
       <li><div class="pub-title">Penalized deep support vector machines for nonlinear classification and variable selection</div><div class="pub-meta"><strong>J. Shin</strong>, D. Chung, S. Bang (2026). Revision submitted to <em>Statistical Analysis and Data Mining: An ASA Data Science Journal</em>.</div></li>
       <li><div class="pub-title">SpaDesign: Simulation-based framework for determining sequencing depth for spatial transcriptomics experiments <span class="badge badge--cofirst">Co-first author</span></div><div class="pub-meta">J. Xie<sup>†</sup>, <strong>J. Shin</strong><sup>†</sup>, H. Jeon, W. Chang, K. J. Jung, Y. Jeon, Z. Li, Q. Ma, D. Chung (2026). Revision submitted to <em>PLOS Computational Biology</em>.</div></li>
       <li><div class="pub-title">Circular data analysis in spatial omics</div><div class="pub-meta"><strong>J. Shin</strong>, J. Yoo, Y. Cho, A. Gupta, P.-H. Mao, K. Thakkar, T. Amireddy, K. J. Jung, J. Y. Kim, H. Jeon, J. Xie<sup>*</sup>, D. Chung<sup>*</sup> (2026). Under review at <em>Briefings in Bioinformatics</em>.</div></li>
@@ -72,12 +73,6 @@ permalink: /research/
     <ol class="pub-list">
       <li><div class="pub-title">Phase I study assessing the safety and immunomodulatory effects of prophylactic siltuximab prior to standard-of-care CD19-directed chimeric antigen receptor therapy <span class="badge badge--cofirst">Co-first author</span></div><div class="pub-meta">N. Denlinger<sup>†</sup>, <strong>J. Shin</strong><sup>†</sup>, N. Song, …, D. Chung, M. P. Rubinstein, Z. Li, M. de Lima, P. Caimi, T. Voorhees<sup>*</sup> (2026). Under review at <em>Blood</em>.</div><div class="pub-note"><b>Contribution:</b> Lead statistician; performed all statistical analyses, including linear mixed-effects models, survival analysis, multivariate regression, and longitudinal data analysis.</div></li>
       <li><div class="pub-title">Clinical and genomic predictors of hyperprogression in recurrent/metastatic head and neck cancer: Discovery and validation <span class="badge badge--cofirst">Co-first author</span></div><div class="pub-meta">N. Mladkova-Suchy<sup>†</sup>, K. Dibs<sup>†</sup>, <strong>J. Shin</strong><sup>†</sup>,…, P. Bhateja, M. Bonomi<sup>*</sup>, D. Blakaj<sup>*</sup> (2026). Under review at <em>JAMA Network Open</em>.</div><div class="pub-note"><b>Contribution:</b> Lead biostatistician responsible for conceptualization and all statistical analyses.</div></li>
-    </ol>
-  </details>
-  <details class="pub-group" open>
-    <summary><h3>Manuscripts under review</h3><span class="count"></span></summary>
-    <ol class="pub-list">
-      <li><div class="pub-title">CellPacman: An interpretable machine-learning pipeline for phenotypic discovery and dose–response characterization of Cell Painting assays <span class="badge badge--cofirst">Co-first author</span></div><div class="pub-meta">M. Kotian<sup>†</sup>, <strong>J. Shin</strong><sup>†</sup>, …, D. Chung (2026). Under review at <em>Bioinformatics</em>.</div></li>
     </ol>
   </details>
   <details class="pub-group" open>

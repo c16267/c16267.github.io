@@ -80,7 +80,6 @@ My work bridges **methodological statistics** and **collaborative biostatistics*
 <ul class="software-list">
   <li><a class="sw-name" href="https://github.com/c16267/spaCraft">spaCraft</a> <span class="sw-desc">— Calibrated power analysis and sample-size planning for spatial transcriptomics.</span> <span class="links"><a href="https://github.com/c16267/spaCraft">GitHub</a></span></li>
   <li><a class="sw-name" href="https://cran.r-project.org/package=psvmSDR">psvmSDR</a> &amp; <a class="sw-name" href="https://cran.r-project.org/web/packages/ppmSDR/index.html">ppmSDR</a> <span class="sw-desc">— R packages for principal-machine sufficient dimension reduction.</span> <span class="links"><a href="https://cran.r-project.org/package=psvmSDR">CRAN · psvmSDR</a><a href="https://cran.r-project.org/web/packages/ppmSDR/index.html">CRAN · ppmSDR</a></span></li>
-  <li><a class="sw-name" href="https://github.com/c16267/DCQR">DCQR</a> <span class="sw-desc">— Deep composite quantile regression methodology.</span> <span class="links"><a href="https://github.com/c16267/DCQR">GitHub</a></span></li>
 </ul>
 
 ## Contact

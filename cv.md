@@ -9,7 +9,7 @@ permalink: /cv/
 <div class="cv-card">
   <div>
     <strong>Full CV (PDF)</strong>
-    <span>Website content is synchronized with the attached CV dated Oct. 2026.</span>
+    <span>Website content is synchronized with the attached CV dated Nov. 2026.</span>
   </div>
   <a class="btn btn--solid" href="{{ '/files/CV_Jungmin_shin.pdf' | relative_url }}" target="_blank" rel="noopener">
     <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M12 4v11m0 0 4.5-4.5M12 15l-4.5-4.5M5 19h14"/></svg>

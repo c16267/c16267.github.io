@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://c16267.github.io/sitemap.xml

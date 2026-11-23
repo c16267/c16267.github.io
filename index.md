@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Jungmin Shin (신정민) | Biomedical Informatics at Ohio State"
-description: "Jungmin Shin (신정민) is a postdoctoral researcher in biomedical informatics at The Ohio State University. His research spans biostatistics, spatial omics, and machine learning."
+title: "Jungmin Shin | Biomedical Informatics at Ohio State"
+description: "Jungmin Shin is a postdoctoral researcher in biomedical informatics at The Ohio State University. His research spans biostatistics, spatial omics, and machine learning."
 ---
 
 # About Me
 
-I am **Jungmin Shin (신정민)**, a **Postdoctoral Researcher** in Biomedical Informatics at **The Ohio State University**, where I have the privilege of working under the mentorship of [Dr. Dongjun Chung](https://sites.google.com/site/statdchung/). I hold a Ph.D. in Statistics from Korea University, where I was fortunate to be advised by [Dr. Seung Jun Shin](https://www.sjshin.net/), alongside an M.S. in Statistics from Purdue University and a B.S. in Mathematics from the Korea Military Academy.
+I am **Jungmin Shin**, a **Postdoctoral Researcher** in Biomedical Informatics at **The Ohio State University**, where I have the privilege of working under the mentorship of [Dr. Dongjun Chung](https://sites.google.com/site/statdchung/). I hold a Ph.D. in Statistics from Korea University, where I was fortunate to be advised by [Dr. Seung Jun Shin](https://www.sjshin.net/), alongside an M.S. in Statistics from Purdue University and a B.S. in Mathematics from the Korea Military Academy.
 
 Prior to my academic career, I served as an **officer in the Republic of Korea Army for 14 years (Retired Major)** and taught mathematics and statistics at the Korea Military Academy.
 
